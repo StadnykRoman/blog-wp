@@ -1,0 +1,45 @@
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header .menu-header-container,
+.container {
+    max-width: 1200px;
+    width: 1200px;
+    margin: auto;
+    box-sizing: border-box;
+
+    @media (max-width: 1300px) {
+        padding: 0px 15px;
+        width: 100%;
+    }
+}
+
+input[type="submit"] {
+    background-color: #6455E5;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    border: 0px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    opacity: 0.8;
+}
+
+.wpcf7 input[type="email"] {
+    padding: 10px 15px;
+}
+
+.wpcf7-not-valid-tip {
+    margin-top: 16px;
+}
+
+.wpcf7-spinner {
+    display: block;
+    margin: 16px auto 0px auto;
+}

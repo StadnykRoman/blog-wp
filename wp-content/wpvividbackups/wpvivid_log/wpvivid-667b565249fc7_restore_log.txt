@@ -1,0 +1,135 @@
+[2024-06-25 23:44:18][notice]Start restoring themes.
+[2024-06-25 23:44:18][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:18][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip succeeded.
+[2024-06-25 23:44:18][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_themes.zip index:0
+[2024-06-25 23:44:18][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_themes.zip index:0 finished.
+[2024-06-25 23:44:18][notice]End restore themes.
+[2024-06-25 23:44:19][notice]Start restoring plugin.
+[2024-06-25 23:44:19][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:19][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip succeeded.
+[2024-06-25 23:44:19][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_plugin.zip index:0
+[2024-06-25 23:44:20][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_plugin.zip index:0 finished.
+[2024-06-25 23:44:20][notice]End restore plugin.
+[2024-06-25 23:44:21][notice]Start restoring wp-content.
+[2024-06-25 23:44:21][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:21][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip succeeded.
+[2024-06-25 23:44:21][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_content.zip index:0
+[2024-06-25 23:44:21][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_content.zip index:0 finished.
+[2024-06-25 23:44:21][notice]End restore wp-content.
+[2024-06-25 23:44:22][notice]Start restoring upload.
+[2024-06-25 23:44:22][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:22][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip succeeded.
+[2024-06-25 23:44:22][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_uploads.zip index:0
+[2024-06-25 23:44:22][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_uploads.zip index:0 finished.
+[2024-06-25 23:44:22][notice]End restore upload.
+[2024-06-25 23:44:24][notice]Start restoring wp-core.
+[2024-06-25 23:44:24][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:24][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip succeeded.
+[2024-06-25 23:44:24][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_core.zip
+[2024-06-25 23:44:25][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_core.zip succeeded.
+[2024-06-25 23:44:25][notice]End restore wp-core.
+[2024-06-25 23:44:26][notice]Start restoring databases.
+[2024-06-25 23:44:26][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip
+[2024-06-25 23:44:26][notice]Extracting file:localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_all.zip finished.
+[2024-06-25 23:44:26][notice]Extracting file:/Users/romanstadnyk/Projects/news/wp-content/wpvividbackups/localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_db.zip
+[2024-06-25 23:44:26][notice]Extracting file:/Users/romanstadnyk/Projects/news/wp-content/wpvividbackups/localhost_wpvivid-667b561578cb2_2024-06-25-23-43_backup_db.zip finished.
+[2024-06-25 23:44:27][notice]End restore databases.
+[2024-06-25 23:44:29][notice]Start restoring databases.
+[2024-06-25 23:44:29][notice]Start restoring sql file offset:0
+[2024-06-25 23:44:29][notice]The test to drop table succeeds.
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_db7_forms
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_db7_forms
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_newsletter_emails
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_newsletter_emails
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_newsletter_logs
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_newsletter_logs
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_newsletter_user_logs
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_newsletter_user_logs
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_wprss_logs
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_wprss_logs
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_links
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_links
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_newsletter_user_meta
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_newsletter_user_meta
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_term_relationships
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_term_relationships
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_commentmeta
+[2024-06-25 23:44:29][notice]Creating table tmp7f3aaf_commentmeta
+[2024-06-25 23:44:29][notice]Drop table if exist tmp7f3aaf_newsletter
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_newsletter
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_newsletter_sent
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_newsletter_sent
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_newsletter_stats
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_newsletter_stats
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_term_taxonomy
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_term_taxonomy
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_termmeta
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_termmeta
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_terms
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_terms
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_usermeta
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_usermeta
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_users
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_users
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_comments
+[2024-06-25 23:44:30][notice]Creating table tmp7f3aaf_comments
+[2024-06-25 23:44:30][notice]Drop table if exist tmp7f3aaf_postmeta
+[2024-06-25 23:44:31][notice]Creating table tmp7f3aaf_postmeta
+[2024-06-25 23:44:31][notice]Drop table if exist tmp7f3aaf_posts
+[2024-06-25 23:44:31][notice]Creating table tmp7f3aaf_posts
+[2024-06-25 23:44:31][notice]Drop table if exist tmp7f3aaf_options
+[2024-06-25 23:44:31][notice]Creating table tmp7f3aaf_options
+[2024-06-25 23:44:32][notice]Start replacing table tmp7f3aaf_options offset:0
+[2024-06-25 23:44:32][notice]
+[2024-06-25 23:44:32][notice]
+[2024-06-25 23:44:32][notice]UPDATE tmp7f3aaf_options SET option_value="http://localhost:8000" WHERE option_name="siteurl";
+[2024-06-25 23:44:32][notice]update query len:94
+[2024-06-25 23:44:32][notice]UPDATE tmp7f3aaf_options SET option_value="http://localhost:8000" WHERE option_name="home";
+[2024-06-25 23:44:32][notice]update query len:91
+[2024-06-25 23:44:32][notice]Restore db success
+[2024-06-25 23:44:32][notice]End restore databases.
+[2024-06-25 23:44:33][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_comments
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_db7_forms
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_links
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_emails
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_logs
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_sent
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_stats
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_user_logs
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_newsletter_user_meta
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_options
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_posts
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_terms
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_users
+[2024-06-25 23:44:33][notice]DROP TABLE IF EXISTS wp_wprss_logs
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_commentmeta TO wp_commentmeta
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_comments TO wp_comments
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_db7_forms TO wp_db7_forms
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_links TO wp_links
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter TO wp_newsletter
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_emails TO wp_newsletter_emails
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_logs TO wp_newsletter_logs
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_sent TO wp_newsletter_sent
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_stats TO wp_newsletter_stats
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_user_logs TO wp_newsletter_user_logs
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_newsletter_user_meta TO wp_newsletter_user_meta
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_options TO wp_options
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_postmeta TO wp_postmeta
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_posts TO wp_posts
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_term_relationships TO wp_term_relationships
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_term_taxonomy TO wp_term_taxonomy
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_termmeta TO wp_termmeta
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_terms TO wp_terms
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_usermeta TO wp_usermeta
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_users TO wp_users
+[2024-06-25 23:44:33][notice]RENAME TABLE tmp7f3aaf_wprss_logs TO wp_wprss_logs
+[2024-06-25 23:44:33][notice]Replacing table prefix succeeded.
+[2024-06-25 23:44:33][notice]Deleting temp files.
